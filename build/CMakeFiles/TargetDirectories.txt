@@ -1,0 +1,3 @@
+/home/geely/test_test/build/CMakeFiles/testqjj.dir
+/home/geely/test_test/build/CMakeFiles/edit_cache.dir
+/home/geely/test_test/build/CMakeFiles/rebuild_cache.dir
